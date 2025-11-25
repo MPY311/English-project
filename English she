@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Second Chances: A Soundtrack Journey</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(to bottom, #f9f7f0, #e8f4f8);
+      margin: 0;
+      padding: 20px;
+      color: #2c3e50;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      background: white;
+      border-radius: 16px;
+      padding: 25px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+      color: #2c6f96;
+      margin-bottom: 5px;
+    }
+    .subtitle {
+      text-align: center;
+      color: #555;
+      margin-bottom: 20px;
+      font-style: italic;
+    }
+    .instructions {
+      background: #e6f7ff;
+      padding: 15px;
+      border-radius: 10px;
+      margin-bottom: 25px;
+      font-size: 0.95em;
+    }
+    .stop {
+      margin-bottom: 35px;
+      padding: 20px;
+      border-left: 4px solid #4a90e2;
+      background: #fafcff;
+      border-radius: 0 10px 10px 0;
+    }
+    .stop h2 {
+      color: #2c6f96;
+      margin-top: 0;
+    }
+    .song-title {
+      font-weight: bold;
+      color: #e74c3c;
+    }
+    .quote {
+      font-style: italic;
+      margin: 12px 0;
+      color: #2c3e50;
+      padding-left: 15px;
+      border-left: 2px solid #bdc3c7;
+    }
+    .device {
+      background: #f1f8e9;
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 20px;
+      font-size: 0.9em;
+      margin-top: 10px;
+    }
+    iframe {
+      width: 100%;
+      height: 120px;
+      border: none;
+      border-radius: 8px;
+      margin: 12px 0;
+    }
+    .think {
+      font-weight: 600;
+      color: #27ae60;
+      margin: 10px 0;
+    }
+    footer {
+      text-align: center;
+      margin-top: 30px;
+      font-size: 0.9em;
+      color: #7f8c8d;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Second Chances: A Soundtrack Journey</h1>
+    <div class="subtitle">Based on <em>“Thank You, Ma’am”</em> by Langston Hughes</div>
+    
+    <div class="instructions">
+      <strong>How to Play:</strong> Click ▶️ on each song clip. Read the quote. Reflect on the question. Notice the literary device. Then imagine walking in Roger’s shoes—from shame… to hope.
+    </div>
+
+    <!-- STOP 1 -->
+    <div class="stop">
+      <h2>🔹 Stop 1: The Choice</h2>
+      <p><span class="song-title">“Be Kind” – Marshmello ft. Halsey</span></p>
+      <div class="quote">
+        “I were you and I wanted to be somebody, I would get me a job and earn me some money.” — Mrs. Jones
+      </div>
+      <div class="think">💡 Think: When have you been given grace instead of punishment?</div>
+      <p><strong>Literary Device:</strong> <span class="device">Characterization</span> – Mrs. Jones shows strength through compassion, not anger.</p>
+      <iframe src="https://www.youtube.com/embed/41tIb0Rkq7M?start=30&end=75" allow="encrypted-media"></iframe>
+    </div>
+
+    <!-- STOP 2 -->
+    <div class="stop">
+      <h2>🔹 Stop 2: The Trap</h2>
+      <p><span class="song-title">“Hard Times” – Paramore</span></p>
+      <div class="quote">
+        “He looked at the door—looked at the woman—looked at the door—and went to the sink.”
+      </div>
+      <div class="think">💡 Think: Have you ever felt stuck between running and staying?</div>
+      <p><strong>Literary Device:</strong> <span class="device">Internal Conflict</span> – Roger battles fear, shame, and the urge to flee.</p>
+      <iframe src="https://www.youtube.com/embed/34Na4j8AVgA?start=30&end=75" allow="encrypted-media"></iframe>
+    </div>
+
+    <!-- STOP 3 -->
+    <div class="stop">
+      <h2>🔹 Stop 3: The Anchor</h2>
+      <p><span class="song-title">“Lean on Me” – Bill Withers</span></p>
+      <div class="quote">
+        “Shoes got by devilish ways will burn your feet. I got a great mind to wash your face for you.”
+      </div>
+      <div class="think">💡 Think: Who has been your “Lean on Me” person?</div>
+      <p><strong>Literary Device:</strong> <span class="device">Theme</span> – True community means offering support without judgment.</p>
+      <iframe src="https://www.youtube.com/embed/erh9E5q5t4s?start=30&end=75" allow="encrypted-media"></iframe>
+    </div>
+
+    <!-- STOP 4 -->
+    <div class="stop">
+      <h2>🔹 Stop 4: The Shift</h2>
+      <p><span class="song-title">“Changes” – Tupac</span></p>
+      <div class="quote">
+        “I didn’t want to be mistrusted now.”
+      </div>
+      <div class="think">💡 Think: When did someone’s trust change your choices?</div>
+      <p><strong>Literary Device:</strong> <span class="device">Motif</span> – Trust vs. mistrust runs through the entire story.</p>
+      <iframe src="https://www.youtube.com/embed/N-0CJz3X9uE?start=45&end=90" allow="encrypted-media"></iframe>
+    </div>
+
+    <!-- STOP 5 -->
+    <div class="stop">
+      <h2>🔹 Stop 5: The Goodbye</h2>
+      <p><span class="song-title">“Good Days” – SZA</span></p>
+      <div class="quote">
+        “He barely managed to say ‘Thank you’ before the door shut.”
+      </div>
+      <div class="think">💡 Think: What small act could start your “good day”?</div>
+      <p><strong>Literary Device:</strong> <span class="device">Tone</span> – Quiet, hopeful, and full of possibility.</p>
+      <iframe src="https://www.youtube.com/embed/g1UQ53h6s7E?start=30&end=75" allow="encrypted-media"></iframe>
+    </div>
+
+    <footer>
+      <p> • “Thank You, Ma’am” by Langston Hughes<br>
+      Name: MohammadparhamYavari</p>
+      <p><em>“Mrs. Jones didn’t give Roger money—she gave him dignity.”</em></p>
+    </footer>
+  </div>
+</body>
+</html>
